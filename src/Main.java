@@ -13,6 +13,6 @@ public class Main {
             System.out.println("Делить на 0 нельзя");
         }
 
-        System.out.println("Конец");
+        System.out.println("Конец1");
     }
 }
